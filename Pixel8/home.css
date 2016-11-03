@@ -1,0 +1,19 @@
+body {
+  background-color: #333333;
+}
+
+#home{
+  text-align:center;
+  margin: 10%;
+}
+
+h1 {
+  color:#ffff99;
+  font-size:70px;
+  margin: 30px;
+}
+
+img{
+  width:400px;
+  border: 1px solid #ffff99;
+}

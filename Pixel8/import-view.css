@@ -1,0 +1,26 @@
+/* IMPORT MEDIA SECTION SETTINGS */
+h3 {
+  margin-left: 10px;
+}
+
+#media-import {
+  width: 39%;
+  height: 470px;
+  overflow-y: auto;;
+}
+
+#media-import div.images {
+  float: left;
+  margin: 4px;
+  border: 1px solid black;
+  width: 160px;
+}
+
+#media-import div.images:hover {
+  border: 1px solid grey;
+}
+
+#media-import div.images img {
+  width: 100%;
+  height: auto;
+}
